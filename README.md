@@ -5,6 +5,7 @@ This project focuses on layout structure, typography, and basic responsive desig
 
 ## 🔗 Live Project
 https://mohammadahnaf7.github.io/Single-Page-CV/
+https://github.com/mohammadahnaf7/Single-Page-CV
 
 ## 🛠 Tech Stack
 - HTML5  
