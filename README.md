@@ -3,9 +3,8 @@
 A clean and responsive single-page CV website built using pure HTML and CSS.  
 This project focuses on layout structure, typography, and basic responsive design without using any frameworks.
 
-## 🔗 Live Project
+## 🔗 Project URL
 https://mohammadahnaf7.github.io/Single-Page-CV/
-https://github.com/mohammadahnaf7/Single-Page-CV
 
 ## 🛠 Tech Stack
 - HTML5  
