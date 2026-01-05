@@ -2,11 +2,13 @@
 
 A clean single-page CV website built using pure HTML and CSS.  
 This project was created to practice basic web layout, typography, and structure.
+PROJECT URL:
+https://mohammadahnaf7.github.io/Single-Page-CV/
 
 ## 🛠 Tech Stack
 - HTML5  
-- CSS3  
-
+- CSS3
+- 
 ## 📌 Features
 - Single-page layout
 - Clean typography
